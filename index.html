@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio — Dawid Żabiński</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1>Dawid Żabiński</h1>
+    <p class="intro">Portfolio projektów graficznych. Kontakt: <b>zabinskidavid@gmail.com</b></p>
+  </div>
+</header>
+
+<main class="container">
+  <nav class="filters" aria-label="Filtrowanie prac">
+    <button class="filter-button active" data-category="Wszystkie">Wszystkie</button>
+    <button class="filter-button" data-category="Skład publikacji i katalogów">Skład publikacji i katalogów</button>
+    <button class="filter-button" data-category="Okładki">Okładki</button>
+    <button class="filter-button" data-category="Ilustracje">Ilustracje</button>
+    <button class="filter-button" data-category="Projekty drukowane">Projekty drukowane</button>
+    <button class="filter-button" data-category="Projekty cyfrowe">Projekty cyfrowe</button>
+    <button class="filter-button" data-category="Branding">Branding</button>
+  </nav>
+
+  <section id="gallery" class="gallery" aria-live="polite"></section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">Wszelkie prawa zastrzeżone. Copyright by Dawid Żabiński</div>
+</footer>
+
+<div class="modal" id="modal" aria-hidden="true">
+  <div class="modal-backdrop" data-close-modal></div>
+  <div class="modal-content" role="dialog" aria-modal="true" aria-label="Podgląd pracy">
+    <button class="modal-close" aria-label="Zamknij" data-close-modal>&times;</button>
+    <div id="modal-media"></div>
+    <div class="modal-info"><p id="modal-description"></p></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

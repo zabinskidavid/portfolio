@@ -1,0 +1,519 @@
+[
+    {
+        "thumbnail": "images/tb_project-1.jpg",
+        "type": "image",
+        "preview": "images/project-1.jpg",
+        "description": "Elementy graficzne do interaktywnej mapy",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-2.jpg",
+        "type": "image",
+        "preview": "images/project-2.jpg",
+        "description": "Etykiety dla Veco",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-3.jpg",
+        "type": "image",
+        "preview": "images/project-3.jpg",
+        "description": "Ilustracje do publikacji dla Wydawnictwo Harmonia",
+        "categories": [
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-4.jpg",
+        "type": "image",
+        "preview": "images/project-4.jpg",
+        "description": "Logo dla Senso Dzieci i Mikro Szkoła",
+        "categories": [
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-5.jpg",
+        "type": "image",
+        "preview": "images/project-5.jpg",
+        "description": "Branding Sattva",
+        "categories": [
+            "Branding",
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-6.jpg",
+        "type": "image",
+        "preview": "images/project-6.jpg",
+        "description": "Branding ikon dla Powsinoga",
+        "categories": [
+            "Ilustracje",
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-7.jpg",
+        "type": "image",
+        "preview": "images/project-7.jpg",
+        "description": "Ilustracje dla Circle K",
+        "categories": [
+            "Ilustracje",
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-8.jpg",
+        "type": "image",
+        "preview": "images/project-8.jpg",
+        "description": "Plakat dla Orbit",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-9.jpg",
+        "type": "image",
+        "preview": "images/project-9.jpg",
+        "description": "Ulotka dla Gerda",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-10.jpg",
+        "type": "image",
+        "preview": "images/project-10.jpg",
+        "description": "Banery social media dla TP-Link",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-11.jpg",
+        "type": "image",
+        "preview": "images/project-11.jpg",
+        "description": "Banery ilustrowane social media dla TP-Link",
+        "categories": [
+            "Ilustracje",
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-12.jpg",
+        "type": "image",
+        "preview": "images/project-12.jpg",
+        "description": "Ilustracje do książki",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-13.jpg",
+        "type": "image",
+        "preview": "images/project-13.jpg",
+        "description": "Coroczny skład katalogów dla BTA Kompas",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-14.jpg",
+        "type": "image",
+        "preview": "images/project-14.jpg",
+        "description": "Newsletter dla BTA Kompas",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-15.jpg",
+        "type": "image",
+        "preview": "images/project-15.jpg",
+        "description": "Branding Boren Fönster",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki",
+            "Ilustracje",
+            "Projekty drukowane",
+            "Projekty cyfrowe",
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-16.jpg",
+        "type": "image",
+        "preview": "images/project-16.jpg",
+        "description": "Okładka dla Instytut Misesa",
+        "categories": [
+            "Okładki",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-17.jpg",
+        "type": "image",
+        "preview": "images/project-17.jpg",
+        "description": "Okładki serii dla Wydawnictwo Harmonia",
+        "categories": [
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-18.jpg",
+        "type": "image",
+        "preview": "images/project-18.jpg",
+        "description": "Etykiety dla Naturativ",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-19.jpg",
+        "type": "image",
+        "preview": "images/project-19.jpg",
+        "description": "Newsletter dla Amazon",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-20.jpg",
+        "type": "image",
+        "preview": "images/project-20.jpg",
+        "description": "Prezentacja PowerPoint dla Grayling",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-21.jpg",
+        "type": "image",
+        "preview": "images/project-21.jpg",
+        "description": "Skład publikacji i konwersja do ebook",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-22.jpg",
+        "type": "image",
+        "preview": "images/project-22.jpg",
+        "description": "Ulotka dla fotowoltaika.plus",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-23.jpg",
+        "type": "image",
+        "preview": "images/project-23.jpg",
+        "description": "Ilustracje do kalendarza",
+        "categories": [
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-24.jpg",
+        "type": "image",
+        "preview": "images/project-24.jpg",
+        "description": "Skład i zilustrowanie publikacji dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-25.jpg",
+        "type": "image",
+        "preview": "images/project-25.jpg",
+        "description": "Ulotka dla BTA Kompas",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-26.jpg",
+        "type": "image",
+        "preview": "images/project-26.jpg",
+        "description": "Skład katalogu w j. angielskim",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-27.jpg",
+        "type": "image",
+        "preview": "images/project-27.jpg",
+        "description": "Skład katalogu",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-28.jpg",
+        "type": "mp4",
+        "preview": "images/motion-2.mp4",
+        "description": "Materiały brandingowe konferencji naukowej ",
+        "categories": [
+            "Projekty drukowane",
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-29.jpg",
+        "type": "image",
+        "preview": "images/project-29.jpg",
+        "description": "Roll-upy dla Mennica Inwestorów",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-30.jpg",
+        "type": "image",
+        "preview": "images/project-30.jpg",
+        "description": "Plakat dla Prawo Do Broni",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-31.jpg",
+        "type": "image",
+        "preview": "images/project-31.jpg",
+        "description": "Okładka ilustrowana dla Instytut Misesa",
+        "categories": [
+            "Okładki",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-32.jpg",
+        "type": "image",
+        "preview": "images/project-32.jpg",
+        "description": "Opakowanie gry planszowej dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-33.jpg",
+        "type": "image",
+        "preview": "images/project-33.jpg",
+        "description": "Skład czarno-białej publikacji dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-34.jpg",
+        "type": "image",
+        "preview": "images/project-34.jpg",
+        "description": "Skład wycinanej publikacji dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-35.jpg",
+        "type": "image",
+        "preview": "images/project-35.jpg",
+        "description": "Skład ilustrowanej publikacji dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-36.jpg",
+        "type": "image",
+        "preview": "images/project-36.jpg",
+        "description": "Skład katalogu dla Tomstal",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-37.jpg",
+        "type": "image",
+        "preview": "images/project-37.jpg",
+        "description": "Skład publikacji naukowej i projekt roll-upa",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-38.jpg",
+        "type": "image",
+        "preview": "images/project-38.jpg",
+        "description": "Ilustracje do mniejszych zleceń",
+        "categories": [
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-39.jpg",
+        "type": "image",
+        "preview": "images/project-39.jpg",
+        "description": "Logo",
+        "categories": [
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-40.jpg",
+        "type": "image",
+        "preview": "images/project-40.jpg",
+        "description": "Logo",
+        "categories": [
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-41.jpg",
+        "type": "image",
+        "preview": "images/project-41.jpg",
+        "description": "Logo",
+        "categories": [
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-42.jpg",
+        "type": "image",
+        "preview": "images/project-42.jpg",
+        "description": "Logo",
+        "categories": [
+            "Branding"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-43.jpg",
+        "type": "image",
+        "preview": "images/project-43.jpg",
+        "description": "Zilustrowanie komiksu",
+        "categories": [
+            "Skład publikacji i katalogów",
+            "Okładki",
+            "Ilustracje"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-44.jpg",
+        "type": "image",
+        "preview": "images/project-44.jpg",
+        "description": "Skład publikacji na podstawie przekładu anglojęzycznego dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-45.jpg",
+        "type": "image",
+        "preview": "images/project-45.jpg",
+        "description": "Ulotka i plakat dla Muzeum Diecezjalne w Pelplinie",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-46.jpg",
+        "type": "image",
+        "preview": "images/project-46.jpg",
+        "description": "Skład broszury dla Visa",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-47.jpg",
+        "type": "image",
+        "preview": "images/project-47.jpg",
+        "description": "Ulotka dla Circle K",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-48.jpg",
+        "type": "mp4",
+        "preview": "images/motion-1.mp4",
+        "description": "Animacja Tetra Pak",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-49.jpg",
+        "type": "youtube",
+        "preview": "https://www.youtube.com/watch?v=F_5Vtdbeal4",
+        "description": "Animacja typu \"explainer\" dla Tetra Pak",
+        "categories": [
+            "Projekty cyfrowe"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-50.jpg",
+        "type": "image",
+        "preview": "images/project-50.jpg",
+        "description": "Ulotka informacyjna dla BTA Kompas",
+        "categories": [
+            "Projekty drukowane"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-51.jpg",
+        "type": "image",
+        "preview": "images/project-51.jpg",
+        "description": "Okładka dla Wydawnictwo Harmonia",
+        "categories": [
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-52.jpg",
+        "type": "image",
+        "preview": "images/project-52.jpg",
+        "description": "Okładka dla Instytut Misesa",
+        "categories": [
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-53.jpg",
+        "type": "image",
+        "preview": "images/project-53.jpg",
+        "description": "Okładka dla Wydawnictwo Harmonia",
+        "categories": [
+            "Okładki"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-54.jpg",
+        "type": "image",
+        "preview": "images/project-54.jpg",
+        "description": "Karty pracy dla Wydawnictwo Harmonia",
+        "categories": [
+            "Skład publikacji i katalogów"
+        ]
+    },
+    {
+        "thumbnail": "images/tb_project-55.jpg",
+        "type": "image",
+        "preview": "images/project-55.jpg",
+        "description": "Seria okładek dla Wydawnictwo Harmonia",
+        "categories": [
+            "Okładki"
+        ]
+    }
+]

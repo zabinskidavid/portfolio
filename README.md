@@ -1,6 +1,6 @@
 # Portfolio — Dawid Żabiński
 
-Prosta strona portfolio przeznaczona do publikacji przez **GitHub Pages**.
+Prosta strona portfolio przeznaczona do publikacji prac graficznych.
 
 ## Struktura
 
@@ -22,8 +22,6 @@ Prosta strona portfolio przeznaczona do publikacji przez **GitHub Pages**.
 Wszystkie dane dotyczące prac znajdują się w jednym pliku:
 
 `projects.json`
-
-Nie trzeba zmieniać `script.js`, kiedy dodajesz, usuwasz lub edytujesz projekty.
 
 ### Grafika
 
@@ -49,7 +47,6 @@ Nie trzeba zmieniać `script.js`, kiedy dodajesz, usuwasz lub edytujesz projekty
 }
 ```
 
-Plik MP4 powinien znajdować się fizycznie w folderze `images/`. Najbezpieczniejszy dla przeglądarek jest MP4 zakodowany jako **H.264 + AAC**.
 
 ### YouTube
 
@@ -75,19 +72,6 @@ Obsługiwane są standardowe adresy YouTube, w tym `youtube.com/watch`, `youtu.b
 - Projekty cyfrowe
 - Branding
 
-Jeśli praca ma należeć do kilku kategorii, można podać kilka wartości w tablicy `categories`.
-
-## Losowa kolejność
-
-Miniatury są losowane przy każdym załadowaniu strony oraz przy zmianie kategorii. Nie trzeba dodawać żadnego dodatkowego pola w JSON-ie.
-
-## Publikacja na GitHub Pages
-
-1. Utwórz repozytorium na GitHubie.
-2. Wgraj `index.html`, `style.css`, `script.js`, `projects.json`, `LICENSE` oraz folder `images`.
-3. W ustawieniach repozytorium przejdź do **Pages**.
-4. Wybierz publikowanie z odpowiedniej gałęzi, np. `main`, z katalogu `/ (root)`.
-5. Po opublikowaniu strona automatycznie pobierze `projects.json` przez `fetch()`.
 
 ### Ważne przy nazwach plików
 

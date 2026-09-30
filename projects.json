@@ -258,8 +258,8 @@
     },
     {
         "thumbnail": "images/tb_project-28.jpg",
-        "type": "mp4",
-        "preview": "images/motion-2.mp4",
+        "type": "image",
+        "preview": "images/project-28.jpg",
         "description": "Materiały brandingowe konferencji naukowej ",
         "categories": [
             "Projekty drukowane",
